@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BBDPPatient">
+    <output-path>$PROJECT_DIR$/out/artifacts/BBDPPatient</output-path>
+    <root id="archive" name="BBDPPatient.war">
+      <element id="javaee-facet-resources" facet="BBDPPatient/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BBDPPatient" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
